@@ -1,0 +1,10 @@
+
+<
+MySchool.iml,1\7\178b405a0fb0b1df1b17dc48a5be34138a0a1628
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+>
+css/styles.css,8\3\8321775d26c1b74276abda7aafa418d98009580c
+7
+main.js,c\4\c4a4248f7568c9e41265502c39b0daeb8b635431
