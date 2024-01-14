@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="swiper" level="application" />
     <orderEntry type="library" name="line" level="application" />
+    <orderEntry type="library" name="line" level="application" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="23d83763-a66a-4d4e-aa21-b09626bbcdf5" />
