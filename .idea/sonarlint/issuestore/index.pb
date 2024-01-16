@@ -13,3 +13,9 @@ index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
 about.html,8\1\8143af03f594989ae71e2d1be57beadf78357d4c
 =
 css/about.css,a\d\ad64ae2a0ce97a63f9e680e84e833c72cae536af
+<
+courses.html,8\7\87b9e9878a0860f7ed0f4740f257d1d21b245a2e
+<
+contact.html,1\4\143617604351c3b10191461458ec5e120a28597c
+?
+css/contact.css,4\b\4b75fae6976d50e5226c0eb4b65b4aecfa348827
