@@ -19,3 +19,13 @@ about.html,8\1\8143af03f594989ae71e2d1be57beadf78357d4c
 contact.html,1\4\143617604351c3b10191461458ec5e120a28597c
 ?
 css/contact.css,4\b\4b75fae6976d50e5226c0eb4b65b4aecfa348827
+5
+CNAME,b\9\b9c1aaaf65573c7e15b93b6d826729e7711cf242
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+M
+images/about achievements.svg,c\e\ce584321036839cc42a6903154ed86b8ec3dd341
+B
+images/contact.svg,7\7\77374f921a9e530dde0376f9432ac9e8d2f691cf
+A
+images/header.svg,1\1\11352d89626f39e7cfdf92de94b2a6ac7eddff28
