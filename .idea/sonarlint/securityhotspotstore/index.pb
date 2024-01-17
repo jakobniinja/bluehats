@@ -29,3 +29,5 @@ B
 images/contact.svg,7\7\77374f921a9e530dde0376f9432ac9e8d2f691cf
 A
 images/header.svg,1\1\11352d89626f39e7cfdf92de94b2a6ac7eddff28
+;
+sitemap.xml,9\9\991b411cc600215e9528c61790563f0521666950
