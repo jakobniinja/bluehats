@@ -1,1 +1,1 @@
-# html-myschool
+# html-bluehats-website
