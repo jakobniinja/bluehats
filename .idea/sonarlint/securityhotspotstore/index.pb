@@ -28,3 +28,9 @@ B
 	home.html,3\a\3ab23a37ff2f5d3f0397c032c9981f48158748e3
 8
 hem.html,7\0\70b6de1819aa1a795b836697c2f5c8846e5d7a85
+<
+podcast.html,9\a\9a9171e48f5e304347f55811abf117ecf4e25b5e
+?
+css/kontakt.css,b\8\b8edc3efe2ef87b20e7366e653f448aabecedd74
+<
+kontakt.html,c\f\cfc932bfa7d6ad4cd06e0fde137fee0aa05a2115
