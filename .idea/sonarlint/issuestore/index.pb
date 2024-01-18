@@ -8,11 +8,6 @@ index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
 css/styles.css,8\3\8321775d26c1b74276abda7aafa418d98009580c
 7
 main.js,c\4\c4a4248f7568c9e41265502c39b0daeb8b635431
-:
-
-about.html,8\1\8143af03f594989ae71e2d1be57beadf78357d4c
-=
-css/about.css,a\d\ad64ae2a0ce97a63f9e680e84e833c72cae536af
 <
 courses.html,8\7\87b9e9878a0860f7ed0f4740f257d1d21b245a2e
 <
@@ -23,11 +18,7 @@ about.html,8\1\8143af03f594989ae71e2d1be57beadf78357d4c
 CNAME,b\9\b9c1aaaf65573c7e15b93b6d826729e7711cf242
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-M
-images/about achievements.svg,c\e\ce584321036839cc42a6903154ed86b8ec3dd341
 B
 images/contact.svg,7\7\77374f921a9e530dde0376f9432ac9e8d2f691cf
-A
-images/header.svg,1\1\11352d89626f39e7cfdf92de94b2a6ac7eddff28
 ;
 sitemap.xml,9\9\991b411cc600215e9528c61790563f0521666950
