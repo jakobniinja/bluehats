@@ -26,3 +26,7 @@ B
 	.htaccess,f\1\f14dd8fe84b7e99eb63debbf029152463832e7ad
 ?
 sitemap (3).xml,4\d\4d3930aa07e6f7a84379c2155265a25a3590af0b
+9
+	home.html,3\a\3ab23a37ff2f5d3f0397c032c9981f48158748e3
+8
+hem.html,7\0\70b6de1819aa1a795b836697c2f5c8846e5d7a85
