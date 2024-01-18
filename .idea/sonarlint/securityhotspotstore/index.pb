@@ -22,3 +22,5 @@ B
 images/contact.svg,7\7\77374f921a9e530dde0376f9432ac9e8d2f691cf
 ;
 sitemap.xml,9\9\991b411cc600215e9528c61790563f0521666950
+9
+	.htaccess,f\1\f14dd8fe84b7e99eb63debbf029152463832e7ad
