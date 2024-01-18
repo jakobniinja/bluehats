@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
 :root {
-  --primary-color: #f9b23c;
-  --primary-color-dark: #f49a20;
   --text-dark: #333333;
-  --text-light: #767268;
   --extra-light: #ffffff;
 }
 
@@ -21,7 +18,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--extra-light);
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 nav {
@@ -31,11 +28,13 @@ nav {
   transform: translateX(-50%);
   width: 100%;
   max-width: 400px;
-  padding: 2rem;
+  margin-top: 0.5rem;
+  padding: 1rem;
+
 }
 
 nav .nav_logo a {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
   color: var(--text-dark);
   text-decoration: none;
@@ -82,10 +81,11 @@ nav .nav_logo a {
   font-variation-settings: normal;
 }
 
-.footer a{
+.footer a {
   padding: 1rem;
   outline: none;
-  border:none ;
+  border: none;
+  text-decoration: none;
   border-radius: 5px;
   color: var(--extra-light);
   font-size: 1rem;
@@ -96,41 +96,45 @@ nav .nav_logo a {
   text-align: center;
 }
 
-.footer a:hover{
+.footer a:hover {
   background: #424890;
 }
 
 /* MEDIA QUERIES */
 @media (min-width: 640px) {
-  nav{
+  nav {
     max-width: 1000px;
   }
-  .container{
+
+  .container {
     max-width: 1200px;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
   }
-  .container img{
+
+  .container img {
     max-width: 550px;
     grid-area: 1/1/3/2;
   }
-  .footer{
+
+  .footer {
     max-width: 300px;
   }
 }
+
 /* MEDIA QUERIES  */
 @media (min-width: 1024px) {
-  .container{
+  .container {
     column-gap: 5rem;
   }
-  .header h1{
+
+  .header h1 {
     font-size: 6rem;
   }
-  .header h3{
+
+  .header h3 {
     font-size: 2.5rem;
   }
-
-
 }
 
 
