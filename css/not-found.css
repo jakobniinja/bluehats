@@ -82,7 +82,7 @@ nav .nav_logo a {
   font-variation-settings: normal;
 }
 
-.footer button{
+.footer a{
   padding: 1rem;
   outline: none;
   border:none ;
@@ -93,9 +93,10 @@ nav .nav_logo a {
   background: #6c63ff;
   cursor: pointer;
   transition: .3s;
+  text-align: center;
 }
 
-.footer button:hover{
+.footer a:hover{
   background: #424890;
 }
 
