@@ -8,12 +8,6 @@ index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
 css/styles.css,8\3\8321775d26c1b74276abda7aafa418d98009580c
 7
 main.js,c\4\c4a4248f7568c9e41265502c39b0daeb8b635431
-<
-courses.html,8\7\87b9e9878a0860f7ed0f4740f257d1d21b245a2e
-<
-contact.html,1\4\143617604351c3b10191461458ec5e120a28597c
-?
-css/contact.css,4\b\4b75fae6976d50e5226c0eb4b65b4aecfa348827
 5
 CNAME,b\9\b9c1aaaf65573c7e15b93b6d826729e7711cf242
 9
@@ -24,8 +18,6 @@ B
 sitemap.xml,9\9\991b411cc600215e9528c61790563f0521666950
 9
 	.htaccess,f\1\f14dd8fe84b7e99eb63debbf029152463832e7ad
-9
-	home.html,3\a\3ab23a37ff2f5d3f0397c032c9981f48158748e3
 8
 hem.html,7\0\70b6de1819aa1a795b836697c2f5c8846e5d7a85
 <
@@ -34,19 +26,6 @@ B
 css/kontakt.css,b\8\b8edc3efe2ef87b20e7366e653f448aabecedd74
 <
 kontakt.html,c\f\cfc932bfa7d6ad4cd06e0fde137fee0aa05a2115
-?
-sitemap (1).xml,b\7\b742732bb6781d3741b0ce0163adac2129619183
->
-not-found.html,f\7\f740fb0f53b01ea95a8caa06caf06fdd7f402a58
-A
-css/not-found.css,6\3\63ee13e629ace63894180204c0eda307c76afd3e
-:
-
-not-found2,2\f\2ff450b126f818efcad7b30c310ce04d867d475d
-?
-not-found2.html,3\f\3feee61fa6c80bc5b93f462e7ccc1b7ca7c3e6d6
-B
-css/not-found2.css,5\5\5532ebecd66e055f7b1743b50dacfa817cb9654c
 ;
 css/404.css,a\0\a09407fa70ff7669a7627201d917280412454b10
 8
