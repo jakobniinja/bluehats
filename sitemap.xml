@@ -7,29 +7,27 @@
 
   <url>
     <loc>https://bluehats.se/</loc>
-    <lastmod>2024-01-18T18:05:51+00:00</lastmod>
+    <lastmod>2024-01-20T11:30:39+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://bluehats.se/hem</loc>
-    <lastmod>2024-01-18T18:05:51+00:00</lastmod>
+    <lastmod>2024-01-20T11:30:39+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/podcast</loc>
-    <lastmod>2024-01-18T18:05:51+00:00</lastmod>
+    <lastmod>2024-01-20T11:30:39+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/kontakt</loc>
-    <lastmod>2024-01-18T18:05:51+00:00</lastmod>
+    <lastmod>2024-01-20T11:30:39+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://bluehats.se/404</loc>
-    <lastmod>2024-01-18T18:05:51+00:00</lastmod>
+    <loc>https://bluehats.se/not-found</loc>
+    <lastmod>2024-01-20T11:30:39+00:00</lastmod>
     <priority>0.80</priority>
   </url>
-
-
 </urlset>
