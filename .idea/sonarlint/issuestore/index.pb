@@ -40,3 +40,7 @@ A
 site.webmanifest,8\6\868bac26f4a0e9278ed929c78cf7bec5af3dcd0e
 E
 safari-pinned-tab.svg,d\2\d2c42e049698ed6ad8ccece42444b90dc44c29e4
+A
+book-session.html,6\f\6f0cdb86df9a8525ebf90363bb3a50960216271e
+A
+boka-session.html,a\6\a663b792f043d4444ce4caeb804098264b6bfbfe
