@@ -30,17 +30,5 @@ B
 css/404.css,a\0\a09407fa70ff7669a7627201d917280412454b10
 8
 404.html,1\2\12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
-?
-sitemap (2).xml,d\5\d557384b69823343c3be75b16eb28459ae5e484d
-?
-sitemap (4).xml,f\5\f5b0210f0b6852b787e0d226196e8639613e416d
-A
-browserconfig.xml,1\3\131a39dc8192b69ab21131084e9834892e745525
-@
-site.webmanifest,8\6\868bac26f4a0e9278ed929c78cf7bec5af3dcd0e
-E
-safari-pinned-tab.svg,d\2\d2c42e049698ed6ad8ccece42444b90dc44c29e4
-A
-book-session.html,6\f\6f0cdb86df9a8525ebf90363bb3a50960216271e
 A
 boka-session.html,a\6\a663b792f043d4444ce4caeb804098264b6bfbfe
