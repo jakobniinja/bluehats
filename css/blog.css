@@ -105,7 +105,6 @@ button {
 
 html {
   font-family: "Inter", sans-serif;
-  font-size: var(--fs-base); /* base font-size (0.85rem = 13.6px) */
   line-height: 1.8;
 }
 
