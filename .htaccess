@@ -7,7 +7,7 @@ RewriteRule ^(.*)$ $1.html [NC,L]
 
 #Redirect 404 to homepage
 DirectoryIndex index.html
-ErrorDocument 404 http://domain.com/
+ErrorDocument 404 http://bluehats.se/
 
 # Enable browser caching
 
