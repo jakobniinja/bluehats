@@ -5,6 +5,10 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 
+#Redirect 404 to homepage
+DirectoryIndex index.html
+ErrorDocument 404 http://domain.com/
+
 # Enable browser caching
 
 ExpiresActive On
