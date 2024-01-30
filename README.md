@@ -1,3 +1,4 @@
 # html-bluehats-website
 
-bluehats.se
+https://jakobniinja.github.io/bluehats/hem
+https://www.youtube.com/@Bluehats-6
