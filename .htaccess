@@ -3,8 +3,10 @@
 RewriteEngine on
 Redirect 301 /java-throwable/ https://www.bluehats.se
 Redirect 301 /salty-string/ https://www.bluehats.se
-Redirect 301 /courses/ https://www.bluehats.se
+Redirect 301 /courses https://www.bluehats.se
 Redirect 301 /contact https://www.bluehats.se/kontakt
+Redirect 301 /static-import-java/ https://www.bluehats.se/kontakt
+Redirect 301 /best-immutable-collection/ https://www.bluehats.se/kontakt
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
