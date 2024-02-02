@@ -1,6 +1,11 @@
 # Map index.html to /index
 
 RewriteEngine on
+Redirect 301 /java-throwable/ https://www.bluehats.se
+Redirect 301 /salty-string/ https://www.bluehats.se
+Redirect 301 /courses/ https://www.bluehats.se
+Redirect 301 /contact https://www.bluehats.se/kontakt
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
@@ -21,10 +26,3 @@ ExpiresByType application/x-javascript "access plus 86400 seconds"
 ExpiresByType application / x-shockwave-flash "access 1 month"
 ExpiresByType image / x-icon "access 1 year"
 ExpiresDefault "access 2 days"
-
-# Add redirect of old index
-
-Redirect 301 /java-throwable/ /hem
-Redirect 301 /salty-string /hem
-Redirect 301 /courses /hem
-Redirect 301 /contact /kontakt
