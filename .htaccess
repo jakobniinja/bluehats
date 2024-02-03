@@ -7,7 +7,6 @@ RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 
 # Enable browser caching
-
 ExpiresActive On
 ExpiresByType image / jpg "access 1 year"
 ExpiresByType image / jpeg "access 1 year"
