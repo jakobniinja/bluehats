@@ -1,8 +1,7 @@
 # Map index.html to /index
 
 RewriteEngine on
-RewriteRule ^product-tag/(.*)$ /$1 [R=301,NC,L]
-
+Redirect /hem https://www.facebook.com/
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
