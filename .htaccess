@@ -1,12 +1,12 @@
 # Map index.html to /index
 
 RewriteEngine on
-Redirect 301 /java-throwable/ https://www.bluehats.se
-Redirect 301 /salty-string/ https://www.bluehats.se
-Redirect 301 /courses https://www.bluehats.se
-Redirect 301 /contact https://www.bluehats.se/kontakt
-Redirect 301 /static-import-java/ https://www.bluehats.se/kontakt
-Redirect 301 /best-immutable-collection/ https://www.bluehats.se/kontakt
+Redirect 301 https://www.bluehats.se/java-throwable/ https://www.bluehats.se
+Redirect 301 https://www.bluehats.se/salty-string/ https://www.bluehats.se
+Redirect 301 https://www.bluehats.se/courses https://www.bluehats.se
+Redirect 301 https://www.bluehats.se/contact https://www.bluehats.se/kontakt
+Redirect 301 https://www.bluehats.se/static-import-java/ https://www.bluehats.se
+Redirect 301 https://www.bluehats.se/best-immutable-collection/ https://www.bluehats.se
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
