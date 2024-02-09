@@ -8,6 +8,8 @@
     <orderEntry type="library" name="line" level="application" />
     <orderEntry type="library" name="line" level="application" />
     <orderEntry type="library" name="404" level="application" />
+    <orderEntry type="library" name="line" level="application" />
+    <orderEntry type="library" name="font-awesome" level="application" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="23d83763-a66a-4d4e-aa21-b09626bbcdf5" />
