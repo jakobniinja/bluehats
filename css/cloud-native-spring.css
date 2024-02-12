@@ -41,7 +41,7 @@ body {
 }
 
 section {
-  padding: 3rem 0;
+  /*padding: 3rem 0;*/
 }
 
 section h2 {
@@ -635,9 +635,6 @@ a {
 
 /* ======== TABLET ======== */
 @media (max-width: 724px) {
-  .product-all-info .product-info-menu li {
-    font-size: 0.8rem;
-  }
 
   .product-all-info .product-info-menu {
     display: grid;
