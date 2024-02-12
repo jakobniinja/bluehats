@@ -280,6 +280,7 @@ body {
 .info-container a {
   color: #333;
   font-size: 0.9rem;
+  padding: 5px;
 }
 
 .info-container a:hover {

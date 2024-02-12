@@ -42,10 +42,7 @@ A
 category.html,3\2\323827b97a37e24533c5982ff0d4c887de729dab
 ?
 css/styles3.css,2\a\2a8d9a90fd437bc729d9629635d170f18ff585e5
-:
-
-books.html,d\2\d29cb65b68deb391b61ca5580782d944417eb86c
-=
-css/books.css,0\4\04f1579f3a4345255e3c78f1d90022a62afb2da3
 H
 cloud-native-spring.html,e\4\e4dc75aff0e40530a506bb2ddcaa9c9cb622430b
+K
+css/cloud-native-spring.css,2\3\23136d8b3ba93e275f2bd7cdd84df220b69782c3
