@@ -47,3 +47,5 @@ A
 books.html,d\2\d29cb65b68deb391b61ca5580782d944417eb86c
 =
 css/books.css,0\4\04f1579f3a4345255e3c78f1d90022a62afb2da3
+H
+cloud-native-spring.html,e\4\e4dc75aff0e40530a506bb2ddcaa9c9cb622430b
