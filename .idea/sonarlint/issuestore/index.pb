@@ -48,3 +48,7 @@ K
 css/cloud-native-spring.css,2\3\23136d8b3ba93e275f2bd7cdd84df220b69782c3
 =
 java/hej.html,a\0\a0fd57ea4e5aab39337179f9e0c57093996a6199
+V
+&css/js/code.jquery.com_jquery-3.7.1.js,b\9\b9877dbf96067bd84ac0ca1940aa8dfde7da0579
+<
+js/Jquery.js,7\5\750c46415e7d8f8f888cbf193f8b3204f425217a
