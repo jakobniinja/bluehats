@@ -1,5 +1,5 @@
 # html-bluehats-website
 
-https://jakobniinja.github.io/bluehats/podcast
+https://bluehats.se/podcast
 
 https://www.youtube.com/@Bluehats-6
