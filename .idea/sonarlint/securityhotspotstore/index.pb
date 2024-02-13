@@ -58,3 +58,5 @@ E
 images/logo-light.svg,f\f\ff24f7eb4b9de75677b9da337dcb8877c695bc22
 R
 "products/pragmatic-programmer.html,5\6\5647ec910dbe926e502a35e6eeab7839d8339c22
+F
+products/java-tdd.html,3\e\3e63980cf4b21ac2066a195e91d8ce41029e8d38
