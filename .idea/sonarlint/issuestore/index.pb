@@ -48,15 +48,9 @@ K
 js/Jquery.js,7\5\750c46415e7d8f8f888cbf193f8b3204f425217a
 Q
 !products/cloud-native-spring.html,3\b\3b7a1ade2a9b0ee00a1ca9e20aeaab873b9516d9
-M
-products/programmer-pragmatic,4\3\43f2df9d9453768fb337e0b3599605b6df15e874
-R
-"products/programmer-pragmatic.html,7\9\79a5c863bcf8a6d4b8f999e4e4a9c27da6bde76d
-D
-images/logo-dark.svg,7\e\7ee3bf0c3b66f5fd4499a972658e0119cbfdf35d
-E
-images/logo-light.svg,f\f\ff24f7eb4b9de75677b9da337dcb8877c695bc22
 R
 "products/pragmatic-programmer.html,5\6\5647ec910dbe926e502a35e6eeab7839d8339c22
 F
 products/java-tdd.html,3\e\3e63980cf4b21ac2066a195e91d8ce41029e8d38
+J
+products/apache-kafka.html,0\7\073047b560234a01546c574818eb76d3c150bce9
