@@ -60,3 +60,5 @@ J
 products/java-modules.html,9\a\9acb800bc416a760128d89e27434c4a6aef8fdc9
 J
 products/modular-java.html,e\5\e5b05ecd22b60b4e9ad8177da5dd439be270f81f
+G
+products/aws-guide.html,0\0\00b930fdb9eba52dfaf80d7a1d434c45c2296bd9
