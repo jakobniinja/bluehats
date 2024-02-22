@@ -54,11 +54,9 @@ F
 products/java-tdd.html,3\e\3e63980cf4b21ac2066a195e91d8ce41029e8d38
 J
 products/apache-kafka.html,0\7\073047b560234a01546c574818eb76d3c150bce9
-E
-products/java-modules,b\b\bb919816e98526758e0f2e79181deffba2381878
-J
-products/java-modules.html,9\a\9acb800bc416a760128d89e27434c4a6aef8fdc9
 J
 products/modular-java.html,e\5\e5b05ecd22b60b4e9ad8177da5dd439be270f81f
 G
 products/aws-guide.html,0\0\00b930fdb9eba52dfaf80d7a1d434c45c2296bd9
+Q
+!products/extreme-programming.html,3\9\39744fdde53cb67992a7cce42af1e762a3204808
