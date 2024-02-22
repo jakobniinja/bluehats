@@ -75,4 +75,14 @@
     <lastmod>2024-02-21T17:05:15+00:00</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://bluehats.se/products/clean-code</loc>
+    <lastmod>2024-02-21T17:05:15+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluehats.se/products/extreme-programming</loc>
+    <lastmod>2024-02-21T17:05:15+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
