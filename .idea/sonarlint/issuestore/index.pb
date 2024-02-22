@@ -60,3 +60,5 @@ G
 products/aws-guide.html,0\0\00b930fdb9eba52dfaf80d7a1d434c45c2296bd9
 Q
 !products/extreme-programming.html,3\9\39744fdde53cb67992a7cce42af1e762a3204808
+H
+products/clean-code.html,b\3\b33be828ee2b9450493606fa701c7240934ec210
