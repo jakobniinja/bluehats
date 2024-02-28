@@ -62,3 +62,7 @@ Q
 !products/extreme-programming.html,3\9\39744fdde53cb67992a7cce42af1e762a3204808
 H
 products/clean-code.html,b\3\b33be828ee2b9450493606fa701c7240934ec210
+I
+courses/apache-kafka.html,0\b\0b8913fd8b7abe616a84886474c7acb9b5ee16ec
+J
+courses/junit-mockito.html,7\2\7294504138994c9e20eb9c58583b1812384de2bb
