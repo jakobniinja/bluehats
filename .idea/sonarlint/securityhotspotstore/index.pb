@@ -62,13 +62,7 @@ Q
 !products/extreme-programming.html,3\9\39744fdde53cb67992a7cce42af1e762a3204808
 H
 products/clean-code.html,b\3\b33be828ee2b9450493606fa701c7240934ec210
-I
-courses/apache-kafka.html,0\b\0b8913fd8b7abe616a84886474c7acb9b5ee16ec
 J
 courses/junit-mockito.html,7\2\7294504138994c9e20eb9c58583b1812384de2bb
-D
-courses/rx-java.html,2\2\22bd14b4a3d6423573306b0ce116a173dcf1569e
-H
-courses/modern-java.html,7\b\7ba9ca157e79f4b81c82620101fbf24671dceab2
 J
 courses/reactive-java.html,a\6\a6adae144573a04cf238a12d7244447bc3ecfa11
