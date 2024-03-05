@@ -66,3 +66,7 @@ J
 courses/junit-mockito.html,7\2\7294504138994c9e20eb9c58583b1812384de2bb
 J
 courses/reactive-java.html,a\6\a6adae144573a04cf238a12d7244447bc3ecfa11
+G
+kurs/junit-mockito.html,1\7\17aed502bf8d539279f9ff6990114a2b9eb7b900
+G
+kurs/reactive-java.html,9\f\9fb059c372a0a544e5b008f23be990f3fb28240a
