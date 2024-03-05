@@ -7,94 +7,94 @@
 
   <url>
     <loc>https://bluehats.se/</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://bluehats.se/blog</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/hem</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/index</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/podcast</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/category</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/boka-session</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/kontakt</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://bluehats.se/products/cloud-native-spring</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/pragmatic-programmer</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/java-tdd</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/apache-kafka</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/modular-java</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/aws-guide</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/clean-code</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/products/extreme-programming</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://bluehats.se/kurser/junit-mockito</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://bluehats.se/kurser/reactive-java</loc>
-    <lastmod>2024-03-03T19:38:36+00:00</lastmod>
+    <lastmod>2024-03-05T05:24:21+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 </urlset>
