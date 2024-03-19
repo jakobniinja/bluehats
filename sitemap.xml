@@ -97,4 +97,14 @@
     <lastmod>2024-03-05T11:12:24+00:00</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://bluehats.se/kurser/java8-developer</loc>
+    <lastmod>2024-03-05T11:12:24+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bluehats.se/kurser/spring-framework-5</loc>
+    <lastmod>2024-03-05T11:12:24+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
