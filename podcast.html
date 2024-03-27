@@ -58,6 +58,9 @@
         </div>
         <div id="buzzsprout-player-14584449" style="margin: 0 1.2rem"></div>
       </div>
+    </article>
+
+    <article class="course">
       <div class="course">
         <div class="course_info">
           <h3 style="font-size: 1.2rem">Java <br>Renaissance</h3>
@@ -66,8 +69,8 @@
         <div id="buzzsprout-player-14614057" style="margin: 0 1.2rem"></div>
       </div>
     </article>
-    <article class="course">
 
+    <article class="course">
       <div class="course">
         <div class="course_info">
           <h3 style="font-size: 1.2rem">Test-Driven Java <br> Development</h3>
@@ -76,6 +79,7 @@
         <div id="buzzsprout-player-14369349" style="margin: 0 1.2rem"></div>
       </div>
     </article>
+
     <article class="course">
       <div class="course">
         <div class="course_info">
@@ -85,6 +89,7 @@
         <div id="buzzsprout-player-14374999" style="margin: 0 1.2rem"></div>
       </div>
     </article>
+
     <article class="course">
       <div class="course">
         <div class="course_info">
@@ -94,6 +99,7 @@
         <div id="buzzsprout-player-14384338" style="margin: 0 1.2rem"></div>
       </div>
     </article>
+
     <article class="course">
       <div class="course">
         <div class="course_info">
@@ -170,7 +176,30 @@
 
 <script type="application/ld+json">
   {
-    "@context": "https://schema.org/",
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://bluehats.se/hem",
+        "url": "https://bluehats.se/",
+        "name": "Bluehats",
+        "description": "Bluehats hemsida. Lär känna oss med 4 snabba frågor",
+        "publisher": {
+          "@id": "https://bluehats.se/#/schema/person/d56b8e78024b81b7988583a68b868aa5"
+        },
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://bluehats.se/?s={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        ],
+        "inLanguage": "sv-SE"
+      }
+    ],
     "@type": "PodcastSeries",
     "image": "https://storage.buzzsprout.com/variants/citoinj87xj4rhw6xd4wbb8dgv21/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg",
     "url": "https://www.buzzsprout.com/2300803/episodes",
