@@ -5,9 +5,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="line" level="application" />
-  </component>
-  <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="768a0a66-49f3-4054-b9a8-d9630ec7178c" />
   </component>
 </module>
